@@ -1,3 +1,3 @@
-# typescript-fg5k8p
+# FizzBuzz
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-fg5k8p)
+A simple solution for the FizzBuzz Kata in TypeScript.
